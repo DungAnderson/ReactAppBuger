@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/react_udemy_app.iml" filepath="$PROJECT_DIR$/.idea/react_udemy_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react_udemy_http_ajax/.idea/react_udemy_http_ajax.iml" filepath="$PROJECT_DIR$/../react_udemy_http_ajax/.idea/react_udemy_http_ajax.iml" />
+    </modules>
+  </component>
+</project>
